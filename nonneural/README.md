@@ -1,7 +1,7 @@
 ## Baseline system for the SIGMORPHON shared task 2020 (task 0)
 
 
-This is a very simple Python 3 baseline algorithm for solving task 1 without external dependencies. The system has a strong bias toward only accounting for prefix and suffix changes when inflecting a form from a given lemma.
+This is a very simple Python 3 baseline algorithm for solving task 0 without external dependencies. The system has a strong bias toward only accounting for prefix and suffix changes when inflecting a form from a given lemma.
 
 When run with the `-o` option, the program writes its outputs into files.  The default behavior is to just run the algorithm on all tasks and languages and print out accuracy on the dev set.
 
