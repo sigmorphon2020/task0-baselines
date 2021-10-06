@@ -1,4 +1,0 @@
-[submodule "nn"]
-	path = nn
-	url = git@github.com:shijie-wu/neural-transducer.git
-	branch = sharedtasks
